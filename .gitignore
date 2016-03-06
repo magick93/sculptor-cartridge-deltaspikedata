@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings/
+target/
+xtend-gen/
+.sculptor-status
+generated/
+
